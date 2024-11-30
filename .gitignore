@@ -1,0 +1,8 @@
+.notes
+vendor
+.idea
+.unison.*
+.~lock.*
+composer.phar
+composer.lock
+config.local.php
